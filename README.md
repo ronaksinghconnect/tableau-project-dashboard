@@ -1,8 +1,6 @@
 # tableau-project-dashboard
 # Netflix Movies & TV Shows Dashboard – Data Analytics Project
 
-# Netflix Movies & TV Shows Dashboard – Data Analytics Project
-
 ## Overview
 This project presents an interactive dashboard analyzing Netflix’s catalog of movies and TV shows using a real-world dataset sourced from Kaggle.
 
