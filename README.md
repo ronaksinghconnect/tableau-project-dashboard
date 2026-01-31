@@ -120,6 +120,9 @@ This project demonstrates:
 - Strong understanding of time-based trend analysis
 - Skill in translating raw data into business insights
 - Professional dashboard storytelling suitable for stakeholders
+ ## Tableau Workbook
+The original Tableau workbook (.twbx) is included in this repository to allow reviewers to explore the dashboard interactively.
+
 
 This dashboard is part of my data analytics portfolio and reflects real-world analytical workflows used by data analysts.
 ![Netflix Dashboard Screenshot](https://github.com/ronaksinghconnect/tableau-project-dashboard/blob/main/NETFLIX%20Dashboard%20.png)
